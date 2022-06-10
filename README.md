@@ -7,7 +7,9 @@ Comparar diversos modelos e variações do algoritmo de ordenação QuickSort
 # Autores:
 
 Miguel Antônio Ribeiro e Silva
+
 Vitor Vasconcelos Almeida
+
 Alan Gabriel Silva
 
 Trabalho Prático 01
