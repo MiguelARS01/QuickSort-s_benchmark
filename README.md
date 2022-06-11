@@ -8,7 +8,7 @@ Comparar diversos modelos e variações do algoritmo de ordenação QuickSort
 
 Miguel Antônio Ribeiro e Silva
 
-Vitor Vasconcelos Almeida
+Vitor Vasconcelos
 
 Alan Gabriel Martins Silva
 
